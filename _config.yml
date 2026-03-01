@@ -1,0 +1,6 @@
+title: Understanding CompilerCompiler
+description: Documentation for understanding a self-defining compiler-compiler
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []
