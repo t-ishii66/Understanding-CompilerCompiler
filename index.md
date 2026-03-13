@@ -1,6 +1,29 @@
+---
+title: "Understanding CompilerCompiler - コンパイラコンパイラの仕組みを学ぶ"
+description: "コンパイラコンパイラ（compiler-compiler）の仕組みを、yacc/bison風の小さな処理系を題材に、構文解析・生成規則・バックトラック・自己定義まで順を追って解説するドキュメントサイトです。"
+keywords:
+  - コンパイラコンパイラ
+  - compiler-compiler
+  - 構文解析
+  - parser generator
+  - yacc
+  - bison
+  - 生成規則
+  - バックトラック
+  - コード生成
+  - 自己定義
+  - メタコンパイラ
+  - metacompiler
+  - BNF
+  - 形式文法
+  - formal grammar
+---
+
+![](top.png)
+
 # Understanding CompilerCompiler
 
-CompilerCompiler documentation site.
+コンパイラコンパイラ（compiler-compiler）の仕組みを学ぶドキュメントサイト
 
 コンパイラコンパイラとは、言語の文法や生成規則を記述すると、その定義に従って動くコンパイラや変換器を作るための処理系です。代表的な例としては yacc や bison があります。このドキュメントは、C言語の基本的な文法とプログラムの流れを理解しているプログラマーを主な読者対象としています。そのうえで、小さなコンパイラコンパイラを題材に、文法定義からコード生成がどのように成り立つのかを、具体例を通して順を追って理解できます。構文解析、生成規則、バックトラック、出力制御、そして処理系が自分自身を記述できる自己定義まで、仕組みを内側から見通せるように構成されています。
 
