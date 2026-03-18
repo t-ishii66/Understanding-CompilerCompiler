@@ -1142,3 +1142,11 @@ The role of this document is to present that structure in a form that can be sur
 - Interface, December 1995 special issue, CQ Publishing
 - `Compiler Construction`, Kenichi Harada, Kyoritsu Shuppan
 - `Compilers I / II`, A. V. Aho et al., Science Sha
+
+# Credits
+
+- Author: t-ishii66
+- Supervisor: GPT5.3 Codex
+- English translation: GPT5.3 Codex, t-ishii66
+
+Copyright(C) 2026 t-ishii66. All rights reserved.

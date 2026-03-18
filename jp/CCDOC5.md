@@ -1150,3 +1150,12 @@ int main(int argc, char* argv[])
 - インターフェース95年12月号特集 CQ出版
 - コンパイラ構成法 原田賢一著 共立出版
 - コンパイラI・II A.V.エイホ他著 サイエンス社
+
+
+# クレジット
+
+- 著者: t-ishii66
+- 監修: GPT5.3 Codex
+- 英語翻訳: GPT5.3 Codex, t-ishii66
+
+Copyright(C) 2026 t-ishii66. All rights reserved.
