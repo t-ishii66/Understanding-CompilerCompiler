@@ -41,3 +41,12 @@ A compiler-compiler is a system that takes a description of a language, such as 
 
 - This site is published with GitHub Pages.
 - Source files are managed in this Git repository.
+
+
+## Credits
+
+- Author: t-ishii66
+- Supervisor: GPT5.3 Codex
+- English translation: GPT5.3 Codex, t-ishii66
+
+Copyright(C) 2026 t-ishii66. All rights reserved.
