@@ -1,3 +1,9 @@
+---
+title: "Understanding comcom.h"
+description: "A detailed explanation of comcom.h — the runtime header that powers parsing, backtracking, and code generation in the compiler-compiler."
+lang: en
+---
+
 # Understanding `comcom.h`
 
 <style>

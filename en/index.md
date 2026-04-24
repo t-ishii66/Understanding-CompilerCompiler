@@ -1,3 +1,9 @@
+---
+title: "Understanding CompilerCompiler - English Documentation"
+description: "Learn how compiler-compilers work step by step: parsing, production rules, backtracking, output control, and self-definition, using a small yacc/bison-style system."
+lang: en
+---
+
 # Understanding CompilerCompiler
 
 This is the entry point for the English documentation.

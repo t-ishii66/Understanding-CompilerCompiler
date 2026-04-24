@@ -1,3 +1,9 @@
+---
+title: "A Macroscopic Understanding of PEN.c"
+description: "A high-level overview of PEN.c — the self-defining compiler-compiler source that demonstrates how a metacompiler can describe its own grammar."
+lang: en
+---
+
 # A Macroscopic Understanding of `PEN.c`
 
 <style>
