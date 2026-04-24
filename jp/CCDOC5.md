@@ -1,3 +1,9 @@
+---
+title: "Appendix - コンパイラコンパイラ解説"
+description: "コンパイラコンパイラ解説の補足資料。参考文献、追加の例、歴史的背景などをまとめています。"
+lang: ja
+---
+
 # Appendix
 
 <style>

@@ -1,3 +1,9 @@
+---
+title: "A Compiler-Compiler from Scratch"
+description: "Build a compiler-compiler from the ground up: learn how grammar definitions drive code generation through a hands-on, step-by-step walkthrough."
+lang: en
+---
+
 # A Compiler-Compiler from Scratch
 
 <style>

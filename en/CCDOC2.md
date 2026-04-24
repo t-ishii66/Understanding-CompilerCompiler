@@ -1,3 +1,9 @@
+---
+title: "Structure of the Generated File"
+description: "Understand the structure of output files produced by a compiler-compiler: how grammar rules are translated into executable C code."
+lang: en
+---
+
 # Structure of the Generated File
 
 <style>

@@ -1,3 +1,9 @@
+---
+title: "comcom.h の理解"
+description: "コンパイラコンパイラのランタイムヘッダ comcom.h を詳細に解説。構文解析・バックトラック・コード生成を支える仕組みを理解します。"
+lang: ja
+---
+
 # comcom.h の理解
 
 <style>

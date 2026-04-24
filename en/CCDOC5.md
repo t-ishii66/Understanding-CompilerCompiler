@@ -1,3 +1,9 @@
+---
+title: "Appendix - Understanding CompilerCompiler"
+description: "Supplementary materials for the compiler-compiler documentation: references, additional examples, and historical context."
+lang: en
+---
+
 # Appendix
 
 <style>
