@@ -1,25 +1,45 @@
+---
+title: "Understanding CompilerCompiler"
+description: "Read a real, self-defining compiler-compiler line by line — parsing, backtracking, code generation, and the strange loop of a system that describes itself."
+keywords: "compiler-compiler, parser generator, yacc, bison, recursive descent parsing, lexer, tokenizer, BNF, formal grammar, parsing, backtracking, production rules, code generation, self-defining compiler, metacompiler, compiler from scratch, how compilers work, language implementation, programming languages tutorial, comcom, PEN.c, open source documentation, GitHub Pages"
+permalink: /
+---
+
 ![](top.png)
 
 # Understanding CompilerCompiler
 
-A documentation site for learning how compiler-compilers work
+> Write down the grammar of a language, and out comes a working compiler for it. Now turn the trick on itself — the system describes its own grammar, then rebuilds itself from that description.
 
-GitHub Pages: https://t-ishii66.github.io/Understanding-CompilerCompiler/
+That is what a **compiler-compiler** does. yacc and bison are the famous industrial examples; this site walks through a much smaller, self-defining one **line by line**, so the whole mechanism is visible from the inside.
 
-A compiler-compiler is a system that takes a description of a language, such as its grammar and generation rules, and produces a compiler or translator that follows that definition. Well-known examples include yacc and bison. This documentation is primarily intended for programmers who are already comfortable with basic C syntax and program flow. From there, it uses a small compiler-compiler to show, step by step, how grammar-based code generation actually works. Through concrete examples, it explains parsing, generation rules, backtracking, output control, and finally self-definition, so the reader can see the whole mechanism from the inside.
+<!-- SEO intro added by setup-github-pages; review and adjust -->
 
-コンパイラコンパイラとは、言語の文法や生成規則を記述すると、その定義に従って動くコンパイラや変換器を作るための処理系です。代表的な例としては yacc や bison があります。このドキュメントは、C言語の基本的な文法とプログラムの流れを理解しているプログラマーを主な読者対象としています。そのうえで、小さなコンパイラコンパイラを題材に、文法定義からコード生成がどのように成り立つのかを、具体例を通して順を追って理解できます。構文解析、生成規則、バックトラック、出力制御、そして処理系が自分自身を記述できる自己定義まで、仕組みを内側から見通せるように構成されています。
+If you have ever wanted to **build your own compiler from scratch**, see how a **lexer**, a **parser**, and a **code generator** actually fit together, or learn how a tiny system can be powerful enough to **describe itself in its own language**, this **compiler-compiler tutorial** is for you. Topics covered include **recursive descent parsing**, **BNF and formal grammars**, **backtracking**, **production rules**, **output control**, and the **self-definition** that closes the loop — written for programmers who already read C comfortably but have never built a parser by hand.
 
-- [English](./en/)
-- [Japanese / 日本語](./jp/)
+<!-- /SEO intro -->
 
-## Structure
+By the end you will have walked through every part of a real, working, self-defining compiler-compiler and understood what each piece is doing — including the strangest and most satisfying part: the moment the system reads a description of *itself* and regenerates from that description.
 
-- `en/`: English documents
-- `jp/`: Japanese documents
+日本語版は [README-jp.md](./README-jp.md) を参照してください。
+
+## Chapters
+
+1. [A Compiler-Compiler from Scratch](./docs/en/CCDOC.md)
+2. [Structure of the Generated File](./docs/en/CCDOC2.md)
+3. [Understanding comcom.h](./docs/en/CCDOC3.md)
+4. [A Macroscopic Understanding of PEN.c](./docs/en/CCDOC4.md)
+5. [Appendix](./docs/en/CCDOC5.md)
 
 ## Notes
 
 - This site is published with GitHub Pages.
-- GitHub Pages URL: https://t-ishii66.github.io/Understanding-CompilerCompiler/
 - Source files are managed in this Git repository.
+
+## Credits
+
+- Author: t-ishii66
+- Supervisor: GPT5.3 Codex
+- English translation: GPT5.3 Codex, t-ishii66
+
+Copyright(C) 2026 t-ishii66. All rights reserved.

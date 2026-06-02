@@ -2,13 +2,27 @@ title: Understanding CompilerCompiler
 description: Documentation for understanding a self-defining compiler-compiler
 url: "https://t-ishii66.github.io"
 baseurl: "/Understanding-CompilerCompiler"
-markdown: kramdown
-kramdown:
-  input: GFM
+repository: t-ishii66/Understanding-CompilerCompiler
+
+theme: jekyll-theme-cayman
+
+author: t-ishii66
+lang: en
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
 exclude:
   - CLAUDE.md
   - PROBLEMS.md
-  - README.md
+  - "*PROBLEMS*.md"
+  - "*.bak"
+  - Makefile
+  - node_modules/
+  - .vscode/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

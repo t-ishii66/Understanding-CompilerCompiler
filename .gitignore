@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+PROBLEMS.md
+*PROBLEMS*.md
+
+.DS_Store
