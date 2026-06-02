@@ -23,6 +23,10 @@ By the end you will have walked through every part of a real, working, self-defi
 
 日本語版は [README-jp.md](./README-jp.md) を参照してください。
 
+## Source code
+
+The compiler-compiler being read and explained in this site lives in a separate repository: <https://github.com/t-ishii66/CompilerCompiler>.
+
 ## Chapters
 
 1. [A Compiler-Compiler from Scratch](./docs/en/CCDOC.md)
@@ -34,7 +38,7 @@ By the end you will have walked through every part of a real, working, self-defi
 ## Notes
 
 - This site is published with GitHub Pages.
-- Source files are managed in this Git repository.
+- Documentation source files are managed in this Git repository.
 
 ## Credits
 

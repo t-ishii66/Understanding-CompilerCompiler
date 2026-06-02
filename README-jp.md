@@ -23,6 +23,10 @@ lang: ja
 
 For the English version, see [README.md](./README.md).
 
+## ソースコード
+
+本サイトで読み解いているコンパイラコンパイラ本体のソースコードは、別リポジトリ <https://github.com/t-ishii66/CompilerCompiler> にあります。
+
 ## 章一覧
 
 1. [コンパイラコンパイラ from スクラッチ](./docs/jp/CCDOC.md)
@@ -34,7 +38,7 @@ For the English version, see [README.md](./README.md).
 ## ノート
 
 - GitHub Pages で公開しています。
-- ソースファイルはこの Git リポジトリで管理しています。
+- ドキュメントのソースはこの Git リポジトリで管理しています。
 
 ## クレジット
 
