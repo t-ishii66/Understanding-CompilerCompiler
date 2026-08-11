@@ -6,6 +6,8 @@ lang: ja
 
 # 生成ファイルの構造
 
+![](../images/concept-02-generated-file.png)
+
 <style>
 body, p, li, h1, h2, h3, h4, h5, h6, td, th {
   font-family: "SFMono-Regular", Menlo, Consolas, "Liberation Mono", "Courier New", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", monospace;

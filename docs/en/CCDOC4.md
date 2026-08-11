@@ -6,6 +6,8 @@ lang: en
 
 # A Macroscopic Understanding of `PEN.c`
 
+![](../images/concept-04-pen-c.png)
+
 <style>
 body, p, li, h1, h2, h3, h4, h5, h6, td, th {
   font-family: "SFMono-Regular", Menlo, Consolas, "Liberation Mono", "Courier New", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", monospace;

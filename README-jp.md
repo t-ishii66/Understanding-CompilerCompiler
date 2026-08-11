@@ -5,7 +5,7 @@ keywords: "コンパイラコンパイラ, パーサジェネレータ, yacc, bi
 lang: ja
 ---
 
-![](top.png)
+![](docs/images/top.png)
 
 # コンパイラコンパイラ解説
 

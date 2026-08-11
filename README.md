@@ -5,7 +5,7 @@ keywords: "compiler-compiler, parser generator, yacc, bison, recursive descent p
 permalink: /
 ---
 
-![](top.png)
+![](docs/images/top.png)
 
 # Understanding CompilerCompiler
 
